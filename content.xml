@@ -1,0 +1,1585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260413185114Q1T5DU</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260413185114V1N7E8</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>PROYECTO FINAL</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>RESOLVEMOS ECUACIONES JUGANDO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Naomi Megias</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776096198068</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnxdth8p-uhcfzla3a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxdth8p-uhcfzla3a</odePageId>
+      <odeBlockId>block-1775984601879-2see2ws7r</odeBlockId>
+      <blockName>COMIENZA LA PARTIDA</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxdth8p-uhcfzla3a</odePageId>
+          <odeBlockId>block-1775984601879-2see2ws7r</odeBlockId>
+          <odeIdeviceId>idevice-1775984601875-dvtxzh8w6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em>"Las matemáticas son el código secreto del universo y las ecuaciones tu herramienta para descifrarlo. Prepárate para aprender jugando: donde otros ven problemas, nosotros vemos desafíos por superar. ¿Estás listo?"</em></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/juego.png" title="El código del álgebra" width="1200" height="800" alt=""Imagen de un tablero de juego con dados y piezas que representan letras X y números." Imagen generada con IA (DALL-E) por Naomi Megias." /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775984601875-dvtxzh8w6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em>\"Las matemáticas son el código secreto del universo y las ecuaciones tu herramienta para descifrarlo. Prepárate para aprender jugando: donde otros ven problemas, nosotros vemos desafíos por superar. ¿Estás listo?\"</em></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/juego.png\" title=\"El código del álgebra\" width=\"1200\" height=\"800\" alt=\"\"Imagen de un tablero de juego con dados y piezas que representan letras X y números.\" Imagen generada con IA (DALL-E) por Naomi Megias.\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxdth8t-vcy60i39x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. ¿Qué vamos a aprender?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. ¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. ¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxdth8t-vcy60i39x</odePageId>
+      <odeBlockId>block-1775986285027-pd1j83nrw</odeBlockId>
+      <blockName>¿DE QUÉ TRATA ESTE RETO?</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxdth8t-vcy60i39x</odePageId>
+          <odeBlockId>block-1775986285027-pd1j83nrw</odeBlockId>
+          <odeIdeviceId>idevice-1775986285025-hr90dqyka</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-tabs">
+<h2>Resolvemos ecuaciones jugando</h2>
+<p>El proyecto se basa en resolver ecuaciones de primer grado usando Kahoot.</p>
+<p><em><strong>Nivel: dirigido a alumnos de 2º ESO</strong></em>. </p>
+<h2>Sesiones</h2>
+<ul>
+<li><strong>Sesión 1: </strong>Explicación y repaso de ecuaciones.</li>
+<li><strong>Sesión 2: </strong>Práctica guiada de resolución.</li>
+<li><strong>Sesión 3: </strong>Actividades independientes y corrección de errores.</li>
+<li><strong>Sesión 4:</strong> Repaso digital con Kahoot.</li>
+<li><strong>Sesión 5:</strong> Reflexión y corrección final.<br /></li>
+</ul>
+<h2>¿Por qué es este reto?</h2>
+<ul>
+<li><strong>Objetivo:</strong> Aprender a resolver ecuaciones siguiendo el procedimiento correcto.<br /></li>
+<li><strong>Justificación:</strong> El uso de Kahoot aumenta la participación y motivación.<br /></li>
+<li><strong>Propósito: </strong>Combinar el papel con lo digital para que no respondan al azar y desarrollen estrategias eficaces.</li>
+</ul>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775986285025-hr90dqyka","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-tabs\">\n<h2>Resolvemos ecuaciones jugando</h2>\n<p>El proyecto se basa en resolver ecuaciones de primer grado usando Kahoot.</p>\n<p><em><strong>Nivel: dirigido a alumnos de 2º ESO</strong></em>. </p>\n<h2>Sesiones</h2>\n<ul>\n<li><strong>Sesión 1: </strong>Explicación y repaso de ecuaciones.</li>\n<li><strong>Sesión 2: </strong>Práctica guiada de resolución.</li>\n<li><strong>Sesión 3: </strong>Actividades independientes y corrección de errores.</li>\n<li><strong>Sesión 4:</strong> Repaso digital con Kahoot.</li>\n<li><strong>Sesión 5:</strong> Reflexión y corrección final.<br /></li>\n</ul>\n<h2>¿Por qué es este reto?</h2>\n<ul>\n<li><strong>Objetivo:</strong> Aprender a resolver ecuaciones siguiendo el procedimiento correcto.<br /></li>\n<li><strong>Justificación:</strong> El uso de Kahoot aumenta la participación y motivación.<br /></li>\n<li><strong>Propósito: </strong>Combinar el papel con lo digital para que no respondan al azar y desarrollen estrategias eficaces.</li>\n</ul>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxdth8u-h69qi3t7y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Hoja de ruta</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Hoja de ruta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Hoja de ruta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxdth8u-h69qi3t7y</odePageId>
+      <odeBlockId>block-1775988118139-ugsue04lu</odeBlockId>
+      <blockName>NUESTRO PLAN DE ENTRENAMIENTO: 5 SESIONES</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxdth8u-h69qi3t7y</odePageId>
+          <odeBlockId>block-1775988118139-ugsue04lu</odeBlockId>
+          <odeIdeviceId>idevice-1775988118135-caj6ylhgd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="10" class="exe-table" cellpadding="3" cellspacing="5" style="width: 100%; height: 556.002px; background-color: #fbeeb8; border-color: #b96ad9; border-style: double; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr style="height: 32.6667px;">
+<td style="width: 28.6765%; height: 32.6667px;"><strong>SESIÓN (55 MIN)</strong></td>
+<td style="width: 46.4932%; height: 32.6667px;"><strong>RETO Y ACTIVIDAD</strong></td>
+<td style="width: 24.7738%; height: 32.6667px;"><strong>MATERIALES</strong></td>
+</tr>
+<tr style="height: 104.667px;">
+<td style="width: 28.6765%; height: 104.667px;">Sesión 1: El idioma del Álgebra</td>
+<td style="width: 46.4932%; height: 104.667px;">Traducción de enunciados a lenguaje algebraico de forma individual. Uso de pizarra digital</td>
+<td style="width: 24.7738%; height: 104.667px;">Pizarra digital, conexión a internet y cuaderno.</td>
+</tr>
+<tr style="height: 104.667px;">
+<td style="width: 28.6765%; height: 104.667px;">Sesión 2: El método paso a paso</td>
+<td style="width: 46.4932%; height: 104.667px;">Resolución guiada de ecuaciones de primer grado con ejemplos en la pizarra digital (Gran grupo e individual).</td>
+<td style="width: 24.7738%; height: 104.667px;">Pizarra digital, cuaderno y bolígrafo.</td>
+</tr>
+<tr style="height: 104.667px;">
+<td style="width: 28.6765%; height: 104.667px;">Sesión 3: Entrenamiento y Estrategia</td>
+<td style="width: 46.4932%; height: 104.667px;">Resolución en el cuaderno con cronómetro y calculadora para mejorar la velocidad y eficacia (Individual).</td>
+<td style="width: 24.7738%; height: 104.667px;">Cuaderno, cronómetro y calculadora.</td>
+</tr>
+<tr style="height: 104.667px;">
+<td style="width: 28.6765%; height: 104.667px;">Sesión 4: El Gran Reto Kahoot</td>
+<td style="width: 46.4932%; height: 104.667px;">Competición digital resolviendo ecuaciones de primer grado a través de Kahoot (Individual o parejas).</td>
+<td style="width: 24.7738%; height: 104.667px;">Dispositivos móviles y cuenta en Kahoot.</td>
+</tr>
+<tr style="height: 104.667px;">
+<td style="width: 28.6765%; height: 104.667px;">Sesión 5: Analizamos</td>
+<td style="width: 46.4932%; height: 104.667px;">Reflexión colectiva sobre errores comunes y el uso correcto de las herramientas digitales (Gran grupo).</td>
+<td style="width: 24.7738%; height: 104.667px;">Cuaderno y puesta en común en el aula.</td>
+</tr>
+</tbody>
+</table>
+<p>Ubicación: 📍 Todas las sesiones se realizarán en el aula.</p>
+<p>Agrupamiento: Variará entre "Individual", "Parejas" y "Gran grupo" según la sesión.</p>
+<p>Autoría: 📄 Diseño bajo licencia CC BY-SA 4.0 por Naomi Megias.</p>
+<p><img src="{{context_path}}/content/resources/mapa.png" width="1280" height="720" alt="mapa mental sobre las sesiones" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775988118135-caj6ylhgd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"10\" class=\"exe-table\" cellpadding=\"3\" cellspacing=\"5\" style=\"width: 100%; height: 556.002px; background-color: #fbeeb8; border-color: #b96ad9; border-style: double; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 28.6765%; height: 32.6667px;\"><strong>SESIÓN (55 MIN)</strong></td>\n<td style=\"width: 46.4932%; height: 32.6667px;\"><strong>RETO Y ACTIVIDAD</strong></td>\n<td style=\"width: 24.7738%; height: 32.6667px;\"><strong>MATERIALES</strong></td>\n</tr>\n<tr style=\"height: 104.667px;\">\n<td style=\"width: 28.6765%; height: 104.667px;\">Sesión 1: El idioma del Álgebra</td>\n<td style=\"width: 46.4932%; height: 104.667px;\">Traducción de enunciados a lenguaje algebraico de forma individual. Uso de pizarra digital</td>\n<td style=\"width: 24.7738%; height: 104.667px;\">Pizarra digital, conexión a internet y cuaderno.</td>\n</tr>\n<tr style=\"height: 104.667px;\">\n<td style=\"width: 28.6765%; height: 104.667px;\">Sesión 2: El método paso a paso</td>\n<td style=\"width: 46.4932%; height: 104.667px;\">Resolución guiada de ecuaciones de primer grado con ejemplos en la pizarra digital (Gran grupo e individual).</td>\n<td style=\"width: 24.7738%; height: 104.667px;\">Pizarra digital, cuaderno y bolígrafo.</td>\n</tr>\n<tr style=\"height: 104.667px;\">\n<td style=\"width: 28.6765%; height: 104.667px;\">Sesión 3: Entrenamiento y Estrategia</td>\n<td style=\"width: 46.4932%; height: 104.667px;\">Resolución en el cuaderno con cronómetro y calculadora para mejorar la velocidad y eficacia (Individual).</td>\n<td style=\"width: 24.7738%; height: 104.667px;\">Cuaderno, cronómetro y calculadora.</td>\n</tr>\n<tr style=\"height: 104.667px;\">\n<td style=\"width: 28.6765%; height: 104.667px;\">Sesión 4: El Gran Reto Kahoot</td>\n<td style=\"width: 46.4932%; height: 104.667px;\">Competición digital resolviendo ecuaciones de primer grado a través de Kahoot (Individual o parejas).</td>\n<td style=\"width: 24.7738%; height: 104.667px;\">Dispositivos móviles y cuenta en Kahoot.</td>\n</tr>\n<tr style=\"height: 104.667px;\">\n<td style=\"width: 28.6765%; height: 104.667px;\">Sesión 5: Analizamos</td>\n<td style=\"width: 46.4932%; height: 104.667px;\">Reflexión colectiva sobre errores comunes y el uso correcto de las herramientas digitales (Gran grupo).</td>\n<td style=\"width: 24.7738%; height: 104.667px;\">Cuaderno y puesta en común en el aula.</td>\n</tr>\n</tbody>\n</table>\n<p>Ubicación: 📍 Todas las sesiones se realizarán en el aula.</p>\n<p>Agrupamiento: Variará entre \"Individual\", \"Parejas\" y \"Gran grupo\" según la sesión.</p>\n<p>Autoría: 📄 Diseño bajo licencia CC BY-SA 4.0 por Naomi Megias.</p>\n<p><img src=\"{{context_path}}/content/resources/mapa.png\" width=\"1280\" height=\"720\" alt=\"mapa mental sobre las sesiones\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776096681276-b5suqp2pt</odePageId>
+  <odeParentPageId>page-mnxdth8u-h69qi3t7y</odeParentPageId>
+  <pageName>SESIÓN 1</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SESIÓN 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776096681276-b5suqp2pt</odePageId>
+      <odeBlockId>block-1776096982523-f9d4p4idj</odeBlockId>
+      <blockName>¡Recordamos y nos organizamos!</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776096681276-b5suqp2pt</odePageId>
+          <odeBlockId>block-1776096982523-f9d4p4idj</odeBlockId>
+          <odeIdeviceId>idevice-1776096982521-rsx7zftln</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta primera sesión, vamos a sentar las bases de nuestro proyecto explorando cómo las matemáticas nos ayudan a expresar situaciones de la vida cotidiana de una forma más sencilla.</p>
+<p>Para ello, utilizaremos como guía el siguiente recurso interactivo:</p>
+<p><a href="https://descargas.intef.es/cedec/mat3_2/contenidos/M3_U3/index.html" title="">👉 Unidad Didáctica: El Álgebra</a> </p>
+<p>¿Qué vamos a trabajar hoy en clase?</p>
+<ul>
+<li><strong>Exploración del Álgebra:</strong> Descubriremos qué es exactamente el álgebra y por qué es tan importante para entender el mundo que nos rodea.</li>
+<li><strong>Utilidad de las Ecuaciones:</strong> Veremos para qué sirven las ecuaciones y cómo nos permiten resolver incógnitas y "misterios" numéricos.</li>
+<li><strong>Práctica de Lenguaje Algebraico:</strong> Aprenderemos a traducir frases del lenguaje común al lenguaje matemático (por ejemplo, cómo escribir "el doble de un número" usando letras y números).</li>
+</ul>
+<p><em>¡Prepárate para empezar a usar las letras como una herramienta poderosa!</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776096982521-rsx7zftln","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta primera sesión, vamos a sentar las bases de nuestro proyecto explorando cómo las matemáticas nos ayudan a expresar situaciones de la vida cotidiana de una forma más sencilla.</p>\n<p>Para ello, utilizaremos como guía el siguiente recurso interactivo:</p>\n<p><a href=\"https://descargas.intef.es/cedec/mat3_2/contenidos/M3_U3/index.html\" title=\"\">👉 Unidad Didáctica: El Álgebra</a> </p>\n<p>¿Qué vamos a trabajar hoy en clase?</p>\n<ul>\n<li><strong>Exploración del Álgebra:</strong> Descubriremos qué es exactamente el álgebra y por qué es tan importante para entender el mundo que nos rodea.</li>\n<li><strong>Utilidad de las Ecuaciones:</strong> Veremos para qué sirven las ecuaciones y cómo nos permiten resolver incógnitas y \"misterios\" numéricos.</li>\n<li><strong>Práctica de Lenguaje Algebraico:</strong> Aprenderemos a traducir frases del lenguaje común al lenguaje matemático (por ejemplo, cómo escribir \"el doble de un número\" usando letras y números).</li>\n</ul>\n<p><em>¡Prepárate para empezar a usar las letras como una herramienta poderosa!</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776096710993-zwmsyzuox</odePageId>
+  <odeParentPageId>page-mnxdth8u-h69qi3t7y</odeParentPageId>
+  <pageName>SESIÓN 2</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SESIÓN 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776096710993-zwmsyzuox</odePageId>
+      <odeBlockId>block-1776097838955-27dkmmf1x</odeBlockId>
+      <blockName>El arte de despejar la incógnita</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776096710993-zwmsyzuox</odePageId>
+          <odeBlockId>block-1776097838955-27dkmmf1x</odeBlockId>
+          <odeIdeviceId>idevice-1776097838952-53jxoow9s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Tras haber aprendido el lenguaje de las letras, hoy nos centraremos en la resolución de ecuaciones de primer grado. El objetivo es que aprendas a mover las piezas de la ecuación con seguridad para encontrar el valor de la "x".</p>
+<p>¿Qué vamos a hacer hoy?</p>
+<ul>
+<li><strong>Resolución paso a paso: </strong>Realizaremos una explicación colectiva en la pizarra. Analizaremos cómo trasponer términos, la importancia de mantener el equilibrio en la igualdad y cómo eliminar paréntesis y denominadores correctamente.</li>
+<li><strong>Ejemplos: </strong>Resolveremos varios ejemplos juntos, desde las ecuaciones más sencillas hasta algunas más complejas, para que no quede ninguna duda sobre el procedimiento.</li>
+<li><strong>Práctica individual: </strong>Una vez repasados los pasos, dispondrás de un tiempo de trabajo personal para resolver una serie de ecuaciones. Es el momento de poner a prueba lo aprendido y ganar agilidad en el cálculo.</li>
+</ul>
+<p><br /><em>Recuerda: No se trata de adivinar el número, sino de seguir el método paso a paso para llegar a la solución.</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776097838952-53jxoow9s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Tras haber aprendido el lenguaje de las letras, hoy nos centraremos en la resolución de ecuaciones de primer grado. El objetivo es que aprendas a mover las piezas de la ecuación con seguridad para encontrar el valor de la \"x\".</p>\n<p>¿Qué vamos a hacer hoy?</p>\n<ul>\n<li><strong>Resolución paso a paso: </strong>Realizaremos una explicación colectiva en la pizarra. Analizaremos cómo trasponer términos, la importancia de mantener el equilibrio en la igualdad y cómo eliminar paréntesis y denominadores correctamente.</li>\n<li><strong>Ejemplos: </strong>Resolveremos varios ejemplos juntos, desde las ecuaciones más sencillas hasta algunas más complejas, para que no quede ninguna duda sobre el procedimiento.</li>\n<li><strong>Práctica individual: </strong>Una vez repasados los pasos, dispondrás de un tiempo de trabajo personal para resolver una serie de ecuaciones. Es el momento de poner a prueba lo aprendido y ganar agilidad en el cálculo.</li>\n</ul>\n<p><br /><em>Recuerda: No se trata de adivinar el número, sino de seguir el método paso a paso para llegar a la solución.</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776098006929-xi3mqur31</odePageId>
+  <odeParentPageId>page-mnxdth8u-h69qi3t7y</odeParentPageId>
+  <pageName>SESIÓN 3</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776098006929-xi3mqur31</odePageId>
+      <odeBlockId>block-1776098010531-r7looyerx</odeBlockId>
+      <blockName>Desafío de agilidad y precisión</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776098006929-xi3mqur31</odePageId>
+          <odeBlockId>block-1776098010531-r7looyerx</odeBlockId>
+          <odeIdeviceId>idevice-1776098010530-vv4xjcovj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hoy vamos a dar un paso más. Ya sabemos cómo se resuelven las ecuaciones, ahora vamos a comprobar cuánta seguridad tenemos al hacerlo y a identificar esos pequeños fallos que a veces nos complican el resultado.</p>
+<p>¿En qué consiste la actividad de hoy?</p>
+<ul>
+<li><strong>Entrenamiento individual: </strong>Resolverás una serie de ejercicios de ecuaciones de primer grado de forma autónoma. El objetivo no es solo llegar al final, sino hacerlo con fluidez.<br /><strong>Control de tiempos:</strong> Observaremos cuánto tiempo necesitas para resolver cada tipo de ecuación. Esto te ayudará a ver en qué partes (paréntesis, fracciones, trasposición) necesitas dedicar un poco más de práctica.</li>
+<li><strong>Análisis de errores:</strong> Al terminar, no solo corregiremos los resultados. Analizaremos juntos los errores más comunes: ¿ha sido un signo?, ¿un fallo en la suma?, ¿un paso mal dado? Aprender de estos errores es la mejor forma de no repetirlos en el gran reto final.</li>
+</ul>
+<p><br /><em>Objetivo: Ganar confianza y "limpiar" esos fallos mecánicos para estar totalmente preparados para la competición de la próxima sesión.</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776098010530-vv4xjcovj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hoy vamos a dar un paso más. Ya sabemos cómo se resuelven las ecuaciones, ahora vamos a comprobar cuánta seguridad tenemos al hacerlo y a identificar esos pequeños fallos que a veces nos complican el resultado.</p>\n<p>¿En qué consiste la actividad de hoy?</p>\n<ul>\n<li><strong>Entrenamiento individual: </strong>Resolverás una serie de ejercicios de ecuaciones de primer grado de forma autónoma. El objetivo no es solo llegar al final, sino hacerlo con fluidez.<br /><strong>Control de tiempos:</strong> Observaremos cuánto tiempo necesitas para resolver cada tipo de ecuación. Esto te ayudará a ver en qué partes (paréntesis, fracciones, trasposición) necesitas dedicar un poco más de práctica.</li>\n<li><strong>Análisis de errores:</strong> Al terminar, no solo corregiremos los resultados. Analizaremos juntos los errores más comunes: ¿ha sido un signo?, ¿un fallo en la suma?, ¿un paso mal dado? Aprender de estos errores es la mejor forma de no repetirlos en el gran reto final.</li>\n</ul>\n<p><br /><em>Objetivo: Ganar confianza y \"limpiar\" esos fallos mecánicos para estar totalmente preparados para la competición de la próxima sesión.</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776098134024-u1ren0tsi</odePageId>
+  <odeParentPageId>page-mnxdth8u-h69qi3t7y</odeParentPageId>
+  <pageName>SESIÓN 4</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 4</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776098134024-u1ren0tsi</odePageId>
+      <odeBlockId>block-1776098191574-n31rlautu</odeBlockId>
+      <blockName>El gran desafío final</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776098134024-u1ren0tsi</odePageId>
+          <odeBlockId>block-1776098191574-n31rlautu</odeBlockId>
+          <odeIdeviceId>idevice-1776098191573-e9w0ndr02</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Ha llegado el momento de la verdad! Después de practicar el lenguaje algebraico y perfeccionar nuestra técnica resolviendo ecuaciones paso a paso, hoy pondremos a prueba nuestra agilidad y conocimientos en una competición en vivo.</p>
+<p>¿Qué vamos a hacer hoy?</p>
+<ul>
+<li><strong>Calentamiento:</strong> Repaso rápido de las reglas y de los errores comunes que detectamos en la sesión anterior.</li>
+<li><strong>Competición Kahoot:</strong> Participaremos en un cuestionario interactivo en tiempo real. Tendrás que resolver las ecuaciones mentalmente o de forma rápida en tu cuaderno para elegir la respuesta correcta antes de que se acabe el tiempo.</li>
+</ul>
+<p><em>Recuerda: La precisión es tan importante como la velocidad. ¡Lee bien cada signo antes de pulsar!</em></p>
+<p><a href="https://create.kahoot.it/share/ecuaciones-de-primer-grado-2-eso/c5e65aaf-f0c2-4a60-8f8b-35967725dc51"><em title="">ATRÉVETE CON ESTE KAHOOT</em></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776098191573-e9w0ndr02","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Ha llegado el momento de la verdad! Después de practicar el lenguaje algebraico y perfeccionar nuestra técnica resolviendo ecuaciones paso a paso, hoy pondremos a prueba nuestra agilidad y conocimientos en una competición en vivo.</p>\n<p>¿Qué vamos a hacer hoy?</p>\n<ul>\n<li><strong>Calentamiento:</strong> Repaso rápido de las reglas y de los errores comunes que detectamos en la sesión anterior.</li>\n<li><strong>Competición Kahoot:</strong> Participaremos en un cuestionario interactivo en tiempo real. Tendrás que resolver las ecuaciones mentalmente o de forma rápida en tu cuaderno para elegir la respuesta correcta antes de que se acabe el tiempo.</li>\n</ul>\n<p><em>Recuerda: La precisión es tan importante como la velocidad. ¡Lee bien cada signo antes de pulsar!</em></p>\n<p><a href=\"https://create.kahoot.it/share/ecuaciones-de-primer-grado-2-eso/c5e65aaf-f0c2-4a60-8f8b-35967725dc51\"><em title=\"\">ATRÉVETE CON ESTE KAHOOT</em></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776098545768-ktkovp4id</odePageId>
+  <odeParentPageId>page-mnxdth8u-h69qi3t7y</odeParentPageId>
+  <pageName>SESIÓN 5</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 5</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776098545768-ktkovp4id</odePageId>
+      <odeBlockId>block-1776098550094-clkgcrt5o</odeBlockId>
+      <blockName>Reflexión</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776098545768-ktkovp4id</odePageId>
+          <odeBlockId>block-1776098550094-clkgcrt5o</odeBlockId>
+          <odeIdeviceId>idevice-1776098550093-ybev72qy9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Felicidades por completar el desafío! Después de la emoción del Kahoot y de todas las ecuaciones resueltas, llegamos a la etapa más importante: analizar nuestro progreso y consolidar lo aprendido.</p>
+<p>¿Qué vamos a hacer en esta última sesión?</p>
+<ul>
+<li><strong>Análisis de errores comunes</strong>: Revisaremos juntos los fallos más repetidos en las sesiones anteriores y en el cuestionario final. Entender por qué nos equivocamos es la clave para que, en el futuro, esos errores desaparezcan.</li>
+<li><strong>Corrección colectiva: </strong>Resolveremos las dudas que hayan quedado pendientes en el muro de clase o en vuestros cuadernos personales.</li>
+<li><strong>Diario de reflexión: </strong>Realizaremos una breve autoevaluación. Pensarás sobre qué parte te ha resultado más fácil, cuál más difícil y qué estrategias te han servido para resolver las ecuaciones con éxito.</li>
+</ul>
+<p><br /><em>Conclusión: El álgebra no es solo resolver letras, sino aprender a pensar con lógica. ¡Buen trabajo durante todo el proyecto!</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776098550093-ybev72qy9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Felicidades por completar el desafío! Después de la emoción del Kahoot y de todas las ecuaciones resueltas, llegamos a la etapa más importante: analizar nuestro progreso y consolidar lo aprendido.</p>\n<p>¿Qué vamos a hacer en esta última sesión?</p>\n<ul>\n<li><strong>Análisis de errores comunes</strong>: Revisaremos juntos los fallos más repetidos en las sesiones anteriores y en el cuestionario final. Entender por qué nos equivocamos es la clave para que, en el futuro, esos errores desaparezcan.</li>\n<li><strong>Corrección colectiva: </strong>Resolveremos las dudas que hayan quedado pendientes en el muro de clase o en vuestros cuadernos personales.</li>\n<li><strong>Diario de reflexión: </strong>Realizaremos una breve autoevaluación. Pensarás sobre qué parte te ha resultado más fácil, cuál más difícil y qué estrategias te han servido para resolver las ecuaciones con éxito.</li>\n</ul>\n<p><br /><em>Conclusión: El álgebra no es solo resolver letras, sino aprender a pensar con lógica. ¡Buen trabajo durante todo el proyecto!</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxdth8v-u1ifmhwe7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Tus derechos en la red</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Tus derechos en la red</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Tus derechos en la red</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Tus derechos en la red</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxdth8v-u1ifmhwe7</odePageId>
+      <odeBlockId>block-1775989139727-uvxfyimp7</odeBlockId>
+      <blockName>NAVEGA SEGURO: PRIVACIDAD DE DATOS</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxdth8v-u1ifmhwe7</odePageId>
+          <odeBlockId>block-1775989139727-uvxfyimp7</odeBlockId>
+          <odeIdeviceId>idevice-1775989139724-829hp1x58</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2>Tu identidad, tu escudo 🛡️</h2>
+<p>En herramientas como Kahoot, no utilices tu nombre completo ni apellidos. Tu identidad digital es tu mejor activo. </p>
+<h2>Protección de Datos Personales 🔒</h2>
+<p>Al terminar de usar los equipos del centro, asegúrate de cerrar tus cuentas para que nadie acceda a tu información.</p>
+<h2>Contraseñas 🔑</h2>
+<p>Crea llaves maestras usando combinaciones de letras, números y símbolos. ¡No las compartas ni con tu mejor amigo!</p>
+<h2>Respeta la autoría ✍️</h2>
+<p> No copies y pegues. Crea tu propio contenido; así es como realmente aprendes.</p>
+<h2>Inteligencia Artificial 🤖</h2>
+<p>Úsala con responsabilidad y solo para aprender; el camino fácil no es la solución.</p>
+</div>
+<p><img src="{{context_path}}/content/resources/infografia.png" width="800" height="2000" alt="esquema visual de la seguridad en internet" /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775989139724-829hp1x58","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>Tu identidad, tu escudo 🛡️</h2>\n<p>En herramientas como Kahoot, no utilices tu nombre completo ni apellidos. Tu identidad digital es tu mejor activo. </p>\n<h2>Protección de Datos Personales 🔒</h2>\n<p>Al terminar de usar los equipos del centro, asegúrate de cerrar tus cuentas para que nadie acceda a tu información.</p>\n<h2>Contraseñas 🔑</h2>\n<p>Crea llaves maestras usando combinaciones de letras, números y símbolos. ¡No las compartas ni con tu mejor amigo!</p>\n<h2>Respeta la autoría ✍️</h2>\n<p> No copies y pegues. Crea tu propio contenido; así es como realmente aprendes.</p>\n<h2>Inteligencia Artificial 🤖</h2>\n<p>Úsala con responsabilidad y solo para aprender; el camino fácil no es la solución.</p>\n</div>\n<p><img src=\"{{context_path}}/content/resources/infografia.png\" width=\"800\" height=\"2000\" alt=\"esquema visual de la seguridad en internet\" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxdth8v-u1ifmhwe7</odePageId>
+      <odeBlockId>block-1775989720958-2xiqb0enc</odeBlockId>
+      <blockName>¿Lo has entendido bien?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxdth8v-u1ifmhwe7</odePageId>
+          <odeBlockId>block-1775989720958-2xiqb0enc</odeBlockId>
+          <odeIdeviceId>idevice-1775989720953-qs57aiio1</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1775989720953-qs57aiio1" data-evaluationb="false" data-evaluationid="e5cca372-41a4-416c-b5f7-16e2ec758383"></div>
+            <div id="frmMainContainer-idevice-1775989720953-qs57aiio1" class="form-IDevice" data-id="idevice-1775989720953-qs57aiio1">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a la siguiente pregunta </p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1775989720953-qs57aiio1">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1775989720953-qs57aiio1" style="display:none;">
+                      <button  id="frmStartGame-idevice-1775989720953-qs57aiio1" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1775989720953-qs57aiio1" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1775989720953-qs57aiio1" > </div>
+                        <div id="frmCover-idevice-1775989720953-qs57aiio1" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1775989720953-qs57aiio1" class="form-results-container inline">
+                        <div id="form-score-idevice-1775989720953-qs57aiio1" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1775989720953-qs57aiio1" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1775989720953-qs57aiio1" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1775989720953-qs57aiio1" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1775989720953-qs57aiio1" type="button" value="Reiniciar"
+                            data-id="idevice-1775989720953-qs57aiio1" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1775989720953-qs57aiio1" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1775989720953-qs57aiio1" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1775989720953-qs57aiio1" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775989720953-qs57aiio1","evaluation":false,"evaluationID":"e5cca372-41a4-416c-b5f7-16e2ec758383","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1775989720953-qs57aiio1","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a la siguiente pregunta </p>","questionsData":[{"id":"1775989822081-EVY8M","activityType":"selection","baseText":"<p>Vas a entrar en la partida de Kahoot de la Sesión 4. ¿Qué nombre de usuario es el más seguro y adecuado?</p>","feedbackRight":"¡Exacto! Proteges tu privacidad y sigues las normas de seguridad en la red","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Mi nombre real y mis dos apellidos"],[true,"Un alias divertido relacionado con las mates"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxdth8w-8ue7s24us</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. El reto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. El reto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. El reto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxdth8w-8ue7s24us</odePageId>
+      <odeBlockId>block-1775990140686-bjmnbp23d</odeBlockId>
+      <blockName>¡Llegó la hora de la verdad: El Gran Reto!</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxdth8w-8ue7s24us</odePageId>
+          <odeBlockId>block-1775990140686-bjmnbp23d</odeBlockId>
+          <odeIdeviceId>idevice-1775990140680-rrouizgtx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Después de entrenar el idioma del álgebra y perfeccionar vuestro método paso a paso, ha llegado el momento de demostrar quién domina las ecuaciones. ¿Estáis listos para el Kahoot final?</p>
+<div class="exe-fx exe-accordion">
+<h2>Formato</h2>
+<p>Resolución de ecuaciones de primer grado a través de Kahoot.</p>
+<h2>Participación</h2>
+<p>Podéis jugar de forma individual o por parejas, dependiendo de los dispositivos disponibles en el aula.</p>
+<h2>Material</h2>
+<p>Necesitaréis vuestro cuaderno para hacer los cálculos antes de marcar la opción, ¡no respondáis al azar!.</p>
+</div>
+<p><a href="https://create.kahoot.it/share/ecuaciones-de-primer-grado-2-eso/c5e65aaf-f0c2-4a60-8f8b-35967725dc51" title="">https://create.kahoot.it/share/ecuaciones-de-primer-grado-2-eso/c5e65aaf-f0c2-4a60-8f8b-35967725dc51</a></p>
+<p><em><strong>Recordatorio de juego limpio: </strong>"Ganar es divertido, pero aprender es el objetivo. Respeta a tus compañeros y recuerda usar tu nick seguro"</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775990140680-rrouizgtx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Después de entrenar el idioma del álgebra y perfeccionar vuestro método paso a paso, ha llegado el momento de demostrar quién domina las ecuaciones. ¿Estáis listos para el Kahoot final?</p>\n<div class=\"exe-fx exe-accordion\">\n<h2>Formato</h2>\n<p>Resolución de ecuaciones de primer grado a través de Kahoot.</p>\n<h2>Participación</h2>\n<p>Podéis jugar de forma individual o por parejas, dependiendo de los dispositivos disponibles en el aula.</p>\n<h2>Material</h2>\n<p>Necesitaréis vuestro cuaderno para hacer los cálculos antes de marcar la opción, ¡no respondáis al azar!.</p>\n</div>\n<p><a href=\"https://create.kahoot.it/share/ecuaciones-de-primer-grado-2-eso/c5e65aaf-f0c2-4a60-8f8b-35967725dc51\" title=\"\">https://create.kahoot.it/share/ecuaciones-de-primer-grado-2-eso/c5e65aaf-f0c2-4a60-8f8b-35967725dc51</a></p>\n<p><em><strong>Recordatorio de juego limpio: </strong>\"Ganar es divertido, pero aprender es el objetivo. Respeta a tus compañeros y recuerda usar tu nick seguro\"</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxdth8w-brxxemk1a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Biblioteca de recursos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Biblioteca de recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Biblioteca de recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxdth8w-brxxemk1a</odePageId>
+      <odeBlockId>block-1775990639763-9s0jnrvix</odeBlockId>
+      <blockName>CURACIÓN DE CONTENIDOS</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxdth8w-brxxemk1a</odePageId>
+          <odeBlockId>block-1775990639763-9s0jnrvix</odeBlockId>
+          <odeIdeviceId>idevice-1775990639757-9s1663ucy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-carousel">
+<h2>Para el Alumnado</h2>
+<p>He seleccionado <a href="https://www.symbaloo.com/shared/AAAABGjAT2EAA41_l12mhQ==" title="">este tablero de Symbaloo</a> para que tengáis a un solo clic todas las herramientas necesarias para dominar las ecuaciones.</p>
+<h2>Para el Docente</h2>
+<p>Espacio de curación de recursos destinados a la gestión del aula y la actualización pedagógica en el área de matemáticas. <a href="https://padlet.com/nmegcor193/recursos-para-la-gesti-n-docente-b2-d1azenez6oj3h7nk" title="">A través de este Pa</a><a href="https://padlet.com/nmegcor193/recursos-para-la-gesti-n-docente-b2-d1azenez6oj3h7nk" title="">dlet.</a></p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775990639757-9s1663ucy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-carousel\">\n<h2>Para el Alumnado</h2>\n<p>He seleccionado <a href=\"https://www.symbaloo.com/shared/AAAABGjAT2EAA41_l12mhQ==\" title=\"\">este tablero de Symbaloo</a> para que tengáis a un solo clic todas las herramientas necesarias para dominar las ecuaciones.</p>\n<h2>Para el Docente</h2>\n<p>Espacio de curación de recursos destinados a la gestión del aula y la actualización pedagógica en el área de matemáticas. <a href=\"https://padlet.com/nmegcor193/recursos-para-la-gesti-n-docente-b2-d1azenez6oj3h7nk\" title=\"\">A través de este Pa</a><a href=\"https://padlet.com/nmegcor193/recursos-para-la-gesti-n-docente-b2-d1azenez6oj3h7nk\" title=\"\">dlet.</a></p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxdth8x-g6hq2lsed</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. ¿Cómo seré evaluado?</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ¿Cómo seré evaluado?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ¿Cómo seré evaluado?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxdth8x-g6hq2lsed</odePageId>
+      <odeBlockId>block-1775991247398-92jhiunyb</odeBlockId>
+      <blockName>¡Enhorabuena!</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxdth8x-g6hq2lsed</odePageId>
+          <odeBlockId>block-1775991247398-92jhiunyb</odeBlockId>
+          <odeIdeviceId>idevice-1775991247394-nsml02ep8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Has llegado al final de nuestro desafío con las ecuaciones. Pero antes de terminar, es muy importante que sepas cómo vamos a valorar todo tu esfuerzo. En este proyecto, no solo cuenta el resultado final; lo más importante es cómo has aprendido y cómo has mejorado paso a paso</p>
+<p><strong>1. Nuestra Rúbrica de Éxito</strong> 🏆<br />Aquí tienes los criterios que utilizaremos para evaluar tu trabajo. Fíjate bien en lo que se necesita para alcanzar el nivel "Sobresaliente". Valoraremos tu capacidad para traducir al lenguaje algebraico, tu orden al resolver en el cuaderno y cómo utilizas las herramientas digitales de forma responsable.</p>
+<p><img src="{{context_path}}/content/resources/rubrica.JPG" width="807" height="856" alt="rubrica de evaluación" /></p>
+<p><strong>2. Tu Diana de Aprendizaje</strong> 🎯</p>
+<p><br />Al finalizar el reto de Kahoot, completaremos esta diana. Te servirá para reflexionar sobre tu propio progreso. ¿Entiendes bien el lenguaje de las letras? ¿Controlas los nervios y el tiempo? ¿Respetas a tus compañeros en la red? Colorea cada sección del 1 al 4 según cómo te sientas; ¡es tu momento de autoevaluación!.</p>
+<p><img src="{{context_path}}/content/resources/diana.JPG" width="824" height="795" alt="diana de autoevaluación" /> </p>
+<p>Notas importantes para tu tranquilidad 💡</p>
+<ul>
+<li>El cuaderno es tu mejor aliado: Si un día la tecnología falla o te pones nervioso con el tiempo del Kahoot, ¡no te preocupes! Siempre tendré en cuenta tu trabajo diario y el orden de tu cuaderno.</li>
+<li>Aprender del error: No buscamos a los ganadores del juego, sino aprender de los fallos. Analizaremos las preguntas más difíciles para que todos dominéis las ecuaciones antes de la prueba final.</li>
+<li>Ayuda en el camino: Recuerda que durante todas las sesiones recibirás ayuda y consejos para corregir tus errores al momento.</li>
+</ul>
+<p> <br /> </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775991247394-nsml02ep8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Has llegado al final de nuestro desafío con las ecuaciones. Pero antes de terminar, es muy importante que sepas cómo vamos a valorar todo tu esfuerzo. En este proyecto, no solo cuenta el resultado final; lo más importante es cómo has aprendido y cómo has mejorado paso a paso</p>\n<p><strong>1. Nuestra Rúbrica de Éxito</strong> 🏆<br />Aquí tienes los criterios que utilizaremos para evaluar tu trabajo. Fíjate bien en lo que se necesita para alcanzar el nivel \"Sobresaliente\". Valoraremos tu capacidad para traducir al lenguaje algebraico, tu orden al resolver en el cuaderno y cómo utilizas las herramientas digitales de forma responsable.</p>\n<p><img src=\"{{context_path}}/content/resources/rubrica.JPG\" width=\"807\" height=\"856\" alt=\"rubrica de evaluación\" /></p>\n<p><strong>2. Tu Diana de Aprendizaje</strong> 🎯</p>\n<p><br />Al finalizar el reto de Kahoot, completaremos esta diana. Te servirá para reflexionar sobre tu propio progreso. ¿Entiendes bien el lenguaje de las letras? ¿Controlas los nervios y el tiempo? ¿Respetas a tus compañeros en la red? Colorea cada sección del 1 al 4 según cómo te sientas; ¡es tu momento de autoevaluación!.</p>\n<p><img src=\"{{context_path}}/content/resources/diana.JPG\" width=\"824\" height=\"795\" alt=\"diana de autoevaluación\" /> </p>\n<p>Notas importantes para tu tranquilidad 💡</p>\n<ul>\n<li>El cuaderno es tu mejor aliado: Si un día la tecnología falla o te pones nervioso con el tiempo del Kahoot, ¡no te preocupes! Siempre tendré en cuenta tu trabajo diario y el orden de tu cuaderno.</li>\n<li>Aprender del error: No buscamos a los ganadores del juego, sino aprender de los fallos. Analizaremos las preguntas más difíciles para que todos dominéis las ecuaciones antes de la prueba final.</li>\n<li>Ayuda en el camino: Recuerda que durante todas las sesiones recibirás ayuda y consejos para corregir tus errores al momento.</li>\n</ul>\n<p> <br /> </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxdth8x-l5hjkgehd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxdth8x-l5hjkgehd</odePageId>
+      <odeBlockId>block-1775992834752-z4ou37fco</odeBlockId>
+      <blockName>PROGRAMACIÓN Y VINCULACIÓN CURRICULAR</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxdth8x-l5hjkgehd</odePageId>
+          <odeBlockId>block-1775992834752-z4ou37fco</odeBlockId>
+          <odeIdeviceId>idevice-1775992834747-ee37ox7qp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta sección está destinada al personal docente y ofrece una visión técnica de la situación de aprendizaje "Resolvemos ecuaciones jugando". En este espacio se detalla la planificación pedagógica, la vinculación con el currículo oficial y la estrategia de gestión de aula.</p>
+<p>🎯 Propuesta Pedagógica<br />El proyecto se centra en la transición del lenguaje natural al algebraico mediante una metodología gamificada. A través de 5 sesiones, el alumnado evoluciona desde el modelado en papel hasta la resolución competitiva y responsable en entornos digitales.</p>
+<p>📑 Contenidos de la Guía<br />En el documento adjunto a continuación, podrás consultar:</p>
+<ul>
+<li> Asociación Curricular: Relación detallada de cada tarea con los criterios de evaluación MAT.1.1, MAT.1.2, MAT.2.1, MAT.8.1 y MAT.9.1.</li>
+<li> Secuenciación: Organización de los 55 minutos de cada sesión y los agrupamientos sugeridos (individual, parejas y gran grupo).</li>
+<li>Gestión de Incidencias: Protocolo de "Plan B" y uso de alumnos "Ayudantes TIC" para asegurar la continuidad de las sesiones tecnológicas.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775992834747-ee37ox7qp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta sección está destinada al personal docente y ofrece una visión técnica de la situación de aprendizaje \"Resolvemos ecuaciones jugando\". En este espacio se detalla la planificación pedagógica, la vinculación con el currículo oficial y la estrategia de gestión de aula.</p>\n<p>🎯 Propuesta Pedagógica<br />El proyecto se centra en la transición del lenguaje natural al algebraico mediante una metodología gamificada. A través de 5 sesiones, el alumnado evoluciona desde el modelado en papel hasta la resolución competitiva y responsable en entornos digitales.</p>\n<p>📑 Contenidos de la Guía<br />En el documento adjunto a continuación, podrás consultar:</p>\n<ul>\n<li> Asociación Curricular: Relación detallada de cada tarea con los criterios de evaluación MAT.1.1, MAT.1.2, MAT.2.1, MAT.8.1 y MAT.9.1.</li>\n<li> Secuenciación: Organización de los 55 minutos de cada sesión y los agrupamientos sugeridos (individual, parejas y gran grupo).</li>\n<li>Gestión de Incidencias: Protocolo de \"Plan B\" y uso de alumnos \"Ayudantes TIC\" para asegurar la continuidad de las sesiones tecnológicas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxdth8x-l5hjkgehd</odePageId>
+      <odeBlockId>block-1775993112034-b0qml2cxc</odeBlockId>
+      <blockName>Relacionamos tareas con criterios de evaluación</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxdth8x-l5hjkgehd</odePageId>
+          <odeBlockId>block-1775993112034-b0qml2cxc</odeBlockId>
+          <odeIdeviceId>idevice-1775993112031-ftlsjhf7a</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/19g1nsyVqws_2bc7t6jScOBVKaikfx0NfSAI-DBOgsaI/edit?usp=sharing" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxdth8y-6c4inpdmp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Créditos y descarga</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. Créditos y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxdth8y-6c4inpdmp</odePageId>
+      <odeBlockId>block-1775992225795-ikc0svr2e</odeBlockId>
+      <blockName>AUTORÍA Y LICENCIA</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxdth8y-6c4inpdmp</odePageId>
+          <odeBlockId>block-1775992225795-ikc0svr2e</odeBlockId>
+          <odeIdeviceId>idevice-1775992225791-gv0so6lzp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este Recurso Educativo Abierto (REA) ha sido diseñado y creado por:</p>
+<ul>
+<li><strong>Autora: </strong>Naomi Megias</li>
+<li><strong>Materia:</strong> Matemáticas (2º ESO)</li>
+<li><strong>Situación de Aprendizaje: </strong>"Resolvemos ecuaciones jugando"</li>
+<li><strong>Licencia de uso:</strong> Para fomentar el intercambio de conocimientos y que otros docentes puedan usar o adaptar este material, este REA se publica bajo la siguiente licencia:</li>
+</ul>
+<p>      <em> Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)</em></p>
+<p>Usted es libre de compartir (copiar y redistribuir el material en cualquier medio o formato) y adaptar (remezclar, transformar y construir a partir del material) para cualquier propósito, incluso comercial, siempre que reconozca la autoría y distribuya sus contribuciones bajo la misma licencia que el original.</p>
+<ul>
+<li>Herramientas utilizadas: En la elaboración de estos materiales se han utilizado las siguientes herramientas:</li>
+</ul>
+<p><strong>                   eXeLearning:</strong> Para la creación y empaquetado del recurso.<br /><strong>                   Canva: </strong>Para el diseño de la infografía de seguridad informática.<br /><strong>                   Symbaloo:</strong> Para la curación de recursos del alumnado.<br /><strong>                   Padlet: </strong>Para la organización de recursos docentes.<br /><strong>                   Kahoot!: </strong>Como plataforma de gamificación.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775992225791-gv0so6lzp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este Recurso Educativo Abierto (REA) ha sido diseñado y creado por:</p>\n<ul>\n<li><strong>Autora: </strong>Naomi Megias</li>\n<li><strong>Materia:</strong> Matemáticas (2º ESO)</li>\n<li><strong>Situación de Aprendizaje: </strong>\"Resolvemos ecuaciones jugando\"</li>\n<li><strong>Licencia de uso:</strong> Para fomentar el intercambio de conocimientos y que otros docentes puedan usar o adaptar este material, este REA se publica bajo la siguiente licencia:</li>\n</ul>\n<p>      <em> Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)</em></p>\n<p>Usted es libre de compartir (copiar y redistribuir el material en cualquier medio o formato) y adaptar (remezclar, transformar y construir a partir del material) para cualquier propósito, incluso comercial, siempre que reconozca la autoría y distribuya sus contribuciones bajo la misma licencia que el original.</p>\n<ul>\n<li>Herramientas utilizadas: En la elaboración de estos materiales se han utilizado las siguientes herramientas:</li>\n</ul>\n<p><strong>                   eXeLearning:</strong> Para la creación y empaquetado del recurso.<br /><strong>                   Canva: </strong>Para el diseño de la infografía de seguridad informática.<br /><strong>                   Symbaloo:</strong> Para la curación de recursos del alumnado.<br /><strong>                   Padlet: </strong>Para la organización de recursos docentes.<br /><strong>                   Kahoot!: </strong>Como plataforma de gamificación.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxdth8y-6c4inpdmp</odePageId>
+      <odeBlockId>block-1776096235014-yp7vuqjkv</odeBlockId>
+      <blockName>Enlace de descarga</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxdth8y-6c4inpdmp</odePageId>
+          <odeBlockId>block-1776096235014-yp7vuqjkv</odeBlockId>
+          <odeIdeviceId>idevice-1776096235012-24or1nxuk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📥 <a href="{{context_path}}/content/resources/proyecto-final_1.elpx" title="proyecto-final.elpx">Descargar archivo fuente (.elp)</a> para su reutilización y adaptación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776096235012-24or1nxuk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📥 <a href=\"{{context_path}}/content/resources/proyecto-final_1.elpx\" title=\"proyecto-final.elpx\">Descargar archivo fuente (.elp)</a> para su reutilización y adaptación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
